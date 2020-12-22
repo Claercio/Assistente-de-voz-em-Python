@@ -1,4 +1,4 @@
-(Don't speak portuguese? Ok... I wrote an english readme. Please, verify the files.
+(Don't speak portuguese? Ok... I wrote an english readme. Please, verify the files.)
 
 :)
 Olá. Aceito contribuição de todos que quiserem fazer sugestões, alterações, implementar algo...
