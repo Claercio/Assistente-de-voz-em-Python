@@ -8,11 +8,10 @@ import time
 import subprocess
 import json
 import requests
-import email
 import pycep_correios
 import json
 import urllib.request as urllib2
-import json, requests, sys
+import sys
 
 
 
