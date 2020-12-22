@@ -1,0 +1,22 @@
+:)
+Hello. I accept contributions from everyone who wants to make suggestions, changes, implement something ...
+Let's grow and learn together!
+
+This is an assistant designed to be entirely in Portuguese. New features are being introduced as time demands.
+The API I use for weather data is the openweathermap. Everyone can create their account and get a key!
+
+For CEP, pycep does the job. Just dictate the zip code to get the information.
+(Note: can be run via jupyter notebook)
+
+Voice commands
+
+wikipedia
+open youtube
+open google
+Facebook
+hour
+time
+Zip code
+about you (or help)
+News
+bye (goodbye)
