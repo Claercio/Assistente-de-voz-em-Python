@@ -11,7 +11,6 @@ Comandos de voz
 wikipédia
 abrir youtube
 abrir google
-abrir facebook
 facebook
 hora
 tempo
