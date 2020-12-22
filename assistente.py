@@ -6,13 +6,10 @@ import webbrowser
 import os
 import time
 import subprocess
-import wolframalpha
 import json
 import requests
 import email
 import pycep_correios
-import pygame
-from pygame import mixer
 import json
 import urllib.request as urllib2
 import json, requests, sys
