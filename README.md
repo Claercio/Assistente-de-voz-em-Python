@@ -5,6 +5,8 @@
 Olá. Aceito contribuição de todos que quiserem fazer sugestões, alterações, implementar algo...
 Vamos crescer e aprender juntos!
 
+NOVIDADE: Diga calcular e informe dois inteiros POSITIVOS.
+
 (Se quiser seguir ou deixar estrela no repo, retribuo). 
 
 Esse é um assistente idealizado para totalmente em português. Novas funcionalidades estão sendo inseridas conforme demanda de tempo.
