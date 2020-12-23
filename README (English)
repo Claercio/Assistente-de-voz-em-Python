@@ -6,7 +6,10 @@ This is an assistant designed to be entirely in Portuguese. New features are bei
 The API I use for weather data is the openweathermap. Everyone can create their account and get a key!
 
 For CEP, pycep does the job. Just dictate the zip code to get the information.
-(Note: can be run via jupyter notebook)
+(Note: can be run via jupyter notebook 
+Important: the Wikipedia command must be accompanied by the desired term
+Ex: say Wikipedia Linux
+Video with simple demonstration (test/clone to try everything): https://vimeo.com/493946743 
 
 Voice commands
 
