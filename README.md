@@ -13,7 +13,7 @@ Para CEP, o pycep faz o trabalho. Basta ditar o CEP para obter as informações.
 Importante: o comando Wikipédia deve vir acompanhado do termo desejado
 Ex: diga Wikipédia Linux
 
-Vídeo com simples demonstração (teste para experimentar tudo): https://vimeo.com/493946743
+Vídeo com simples demonstração (teste/clone para experimentar tudo): https://vimeo.com/493946743
 
 Comandos de voz
 
