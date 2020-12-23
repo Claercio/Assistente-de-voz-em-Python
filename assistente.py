@@ -180,7 +180,7 @@ if __name__=='__main__':
          
          email.login("teu email", "tua senha") #use uma conta do gmail
   
-         #Se o comando de voz não funcionar, diga e-máil (o a aberto). Como está habilitado para português, algumas palavras em inglês podem não funcionar bem.
+         #Se o comando de voz não funcionar, diga e-máil (letra e fechada e letra a aberta). Como está habilitado para português, algumas palavras em inglês podem não funcionar bem.
          #para evitar erro de autenticação, acesse a pagina https://myaccount.google.com/lesssecureapps e marque a opcão permitir
          #aplicativos menos seguros. Ao fazer isso, será possível enviar.
          #por enquanto está habilitado apenas o texto da mensagem, sem título (será colocada a opção título)
