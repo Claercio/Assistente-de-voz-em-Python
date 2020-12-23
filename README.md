@@ -43,6 +43,7 @@ sobre você (ou ajuda)
 notícias
 tchau (despedida)
 e-mail
+calcular
 
 
 
