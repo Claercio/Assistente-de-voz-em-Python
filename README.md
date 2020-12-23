@@ -10,6 +10,7 @@ A API que uso para dados climáticos é a openweathermap. Todos podem criar sua 
 Para CEP, o pycep faz o trabalho. Basta ditar o CEP para obter as informações.
 (Obs: pode ser executado via jupyter notebook)
 
+Vídeo demonstração: https://vimeo.com/493946743
 Comandos de voz
 
 wikipédia
