@@ -9,7 +9,7 @@ NOVIDADE: Diga calcular e informe dois inteiros POSITIVOS. O assistente irá ped
 
 E-mail : envio de e-mail (por enquanto apenas o corpo da mensagem). 
 
-Se o comando não for reconhecido, experimente dizer e-máil (com um a aberto). Como está habilitado para português, algumas palavras podem não ser 
+Se o comando não for reconhecido, experimente dizer e-máil (letra e fechada e letra a aberta). Como está habilitado para português, algumas palavras podem não ser 
 reconhecidas.
 
 https://myaccount.google.com/lesssecureapps Marque a opção permitir apps menos seguros (less secure apps), isso evita erros ao enviar sua msg.
