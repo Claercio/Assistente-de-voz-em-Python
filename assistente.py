@@ -8,6 +8,7 @@ import time
 import subprocess
 import json
 import requests
+import email
 import pycep_correios
 import json
 import urllib.request as urllib2
@@ -144,10 +145,26 @@ if __name__=='__main__':
             strTime=datetime.datetime.now().strftime("%H:%M:%S")
             speak(f"Hora certa {strTime}")
 
-        elif "facebook" in statement:
+        elif 'facebook' in statement:
             webbrowser.open_new_tab("https://www.facebook.com/")
             speak("facebook aberto")
-
+            
+        elif 'calcular' in statement:
+            speak("Informe o primeiro numero")
+            numero1 = takeCommand()
+            speak("Informe o segundo numero")
+            numero2 = takeCommand()
+            speak ("Exibindo resultado")
+            soma= int(numero1) + int(numero2)
+            print(soma)
+            subt = int(numero1) - int(numero2)
+            print(subt)
+            mult = int(numero1) * int (numero2)
+            print(mult)
+            div = int(numero1)/int(numero2)
+            print(div)
+        
+               
         elif 'notícias' in statement:
             noticias = webbrowser.open_new_tab("https://g1.globo.com/")
             speak('Noticias do G1')
