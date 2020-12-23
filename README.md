@@ -5,7 +5,7 @@
 Olá. Aceito contribuição de todos que quiserem fazer sugestões, alterações, implementar algo...
 Vamos crescer e aprender juntos!
 
-NOVIDADE: Diga calcular e informe dois inteiros POSITIVOS.
+NOVIDADE: Diga calcular e informe dois inteiros POSITIVOS. O assistente irá pedir cada num por vezes. Primeiro o 1 e depois o 2.
 
 (Se quiser seguir ou deixar estrela no repo, retribuo). 
 
