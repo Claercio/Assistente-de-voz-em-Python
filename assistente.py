@@ -13,7 +13,7 @@ import pycep_correios
 import json
 import urllib.request as urllib2
 import sys
-
+import smtplib
 
 
 print('Carregando seu assistente')
@@ -169,8 +169,34 @@ if __name__=='__main__':
             noticias = webbrowser.open_new_tab("https://g1.globo.com/")
             speak('Noticias do G1')
             time.sleep(6)
-
+       
+        elif 'e-mail' in statement:
         
+         email = smtplib.SMTP('smtp.gmail.com', 587) 
+  
+    
+         email.starttls() 
+  
+         
+         email.login("teu email", "tua senha") #use uma conta do gmail
+  
+         #para evitar erro de autenticação, acesse a pagina https://myaccount.google.com/lesssecureapps e marque a opcão permitir
+         #aplicativos menos seguros. Ao fazer isso, será possível enviar.
+         #por enquanto está habilitado apenas o texto da mensagem, sem título (será colocada a opção título)
+   
+       
+         mensagem = speak ("Diga o texto da mensagem")
+         save_msg = takeCommand().encode('utf-8')
+  
+      
+         email.sendmail("teu email", "email da pessoa", save_msg) 
+  
+         speak("Mensagem enviada!")
+    
+         email.quit()
+            
+                  
+             
        
 
     time.sleep(3)
