@@ -9,6 +9,8 @@ NOVIDADE: Diga calcular e informe dois inteiros POSITIVOS. O assistente irá ped
 
 E-mail : envio de e-mail (por enquanto apenas o corpo da mensagem). 
 
+https://myaccount.google.com/lesssecureapps Marque a opção permitir apps menos seguros (less secure apps), isso evita erros ao enviar sua msg.
+
 Insira as informações email e senha da sua conta (Gmail). Depois coloque seu email e o endereço de quem vai receber. 
 
 Agora, simplesmente envie os emails usando sua voz.
