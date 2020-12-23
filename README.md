@@ -6,8 +6,11 @@ Olá. Aceito contribuição de todos que quiserem fazer sugestões, alterações
 Vamos crescer e aprender juntos!
 
 NOVIDADE: Diga calcular e informe dois inteiros POSITIVOS. O assistente irá pedir cada num por vezes. Primeiro o 1 e depois o 2.
+
 E-mail : envio de e-mail (por enquanto apenas o corpo da mensagem). 
+
 Insira as informações email e senha da sua conta (Gmail). Depois coloque seu email e o endereço de quem vai receber. 
+
 Agora, simplesmente envie os emails usando sua voz.
 
 
